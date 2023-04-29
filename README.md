@@ -79,6 +79,8 @@ Introducing MintBuddy, the ultimate blockchain chatbot designed to simplify the 
 ### Built With
 
 * [![Next][Next.js]][Next-url]
+* VoiceFlow
+* AWS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
