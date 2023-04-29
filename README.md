@@ -69,6 +69,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+Introducing MintBuddy, the ultimate blockchain chatbot designed to simplify the process of interacting with cryptocurrencies and NFTs. Do you find it challenging to navigate the complexities of blockchain technology? Are you tired of switching between platforms, connecting multiple wallets, and struggling to understand the terminology? With MintBuddy, you can send crypto, buy crypto, and mint NFTs with ease, all directly on the chatbot. Our AI-driven platform leverages the power of natural language processing and cutting-edge technologies like Voiceflow, OpenAI, and VerbWire to make blockchain technology accessible to everyone, even your grandma! With MintBuddy, you can take control of your finances and revolutionize the world of finance.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
