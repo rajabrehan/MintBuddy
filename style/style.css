@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
 
 body{
-    background-color: #ff9c00;
+    background-color: #4070d5;
     max-width: 80vw;
     height: 90vh;
 }
 
 h1{
-    color: #2c2f32;
+    color: #fff;
     font-size: 3rem;
     text-align: center;
     margin-top: 5%;
