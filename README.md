@@ -1,4 +1,4 @@
-<!--! Replace `repo_name`, `project_title`, `project_description`,`technology`-->
+<!--! Replace `MintBuddy`, `MintBuddy`, `project_description`,`technology`-->
 
 <a name="readme-top"></a>
 
@@ -14,23 +14,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DavDeDev/repo_name">
+  <a href="https://github.com/WilliamUW/MintBuddy">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">MintBuddy</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/DavDeDev/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/WilliamUW/MintBuddy"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DavDeDev/repo_name">View Demo</a>
+    <a href="https://github.com/WilliamUW/MintBuddy">View Demo</a>
     ·
-    <a href="https://github.com/DavDeDev/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/WilliamUW/MintBuddy/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DavDeDev/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/WilliamUW/MintBuddy/issues">Request Feature</a>
   </p>
 </div>
 
@@ -103,7 +103,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/DavDeDev/repo_name.git
+   git clone https://github.com/WilliamUW/MintBuddy.git
    ```
 3. Install NPM packages
    ```sh
@@ -137,7 +137,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/DavDeDev/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/WilliamUW/MintBuddy/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 David Pietrocola - [@D4v1D911](https://twitter.com/D4v1D911) - pietrocoladavid@gmail.com
 
-Project Link: [https://github.com/DavDeDev/repo_name](https://github.com/DavDeDev/repo_name)
+Project Link: [https://github.com/WilliamUW/MintBuddy](https://github.com/WilliamUW/MintBuddy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,20 +192,20 @@ Project Link: [https://github.com/DavDeDev/repo_name](https://github.com/DavDeDe
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/DavDeDev/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/DavDeDev/repo_name/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/WilliamUW/MintBuddy.svg?style=for-the-badge
+[contributors-url]: https://github.com/WilliamUW/MintBuddy/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/DavDeDev/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/DavDeDev/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/WilliamUW/MintBuddy.svg?style=for-the-badge
+[forks-url]: https://github.com/WilliamUW/MintBuddy/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/DavDeDev/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/DavDeDev/repo_name/stargazers
+[stars-shield]: https://img.shields.io/github/stars/WilliamUW/MintBuddy.svg?style=for-the-badge
+[stars-url]: https://github.com/WilliamUW/MintBuddy/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/DavDeDev/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/DavDeDev/repo_name/issues
+[issues-shield]: https://img.shields.io/github/issues/WilliamUW/MintBuddy.svg?style=for-the-badge
+[issues-url]: https://github.com/WilliamUW/MintBuddy/issues
 
-[license-shield]: https://img.shields.io/github/license/DavDeDev/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/DavDeDev/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/WilliamUW/MintBuddy.svg?style=for-the-badge
+[license-url]: https://github.com/WilliamUW/MintBuddy/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/pietrocoladavid
