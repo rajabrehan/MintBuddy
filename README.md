@@ -21,7 +21,7 @@
 <h3 align="center">MintBuddy</h3>
 
   <p align="center">
-    project_description
+    MintBuddy makes minting NFTs so easy, even your grandma can do it.
     <br />
     <a href="https://github.com/WilliamUW/MintBuddy"><strong>Explore the docs »</strong></a>
     <br />
