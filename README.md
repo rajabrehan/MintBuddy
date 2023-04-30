@@ -182,4 +182,4 @@ Project Link: [https://github.com/WilliamUW/MintBuddy](https://github.com/Willia
 
 [Domain.com]:https://www.domain.com/
 
-* Important: This repository was created after 9PM EST April 28 and was not edited after 3AM EST April 30 !!!
+Declaration: This repository was created after 9PM EST April 28 and was not edited after 3AM EST April 30 !!!
