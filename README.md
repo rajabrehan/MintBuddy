@@ -76,7 +76,6 @@ Introducing MintBuddy, the ultimate blockchain chatbot designed to simplify the 
 * StableDiffusion
 * Domain.com
 * [VerbWire][VerbWire-URL]
-* Clarification: This repository was created after 9PM EST April 28 and was not edited after 3AM EST April 30 !!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,3 +182,4 @@ Project Link: [https://github.com/WilliamUW/MintBuddy](https://github.com/Willia
 
 [Domain.com]:https://www.domain.com/
 
+* Important: This repository was created after 9PM EST April 28 and was not edited after 3AM EST April 30 !!!
